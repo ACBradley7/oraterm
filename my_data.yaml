@@ -1,0 +1,17 @@
+current_dir: /home/drew/Files/_Coding/oraterm/
+launch_times:
+- 07:00
+- '19:36'
+- '21:00'
+recent_prayers:
+- id_3
+- id_1
+shell: bash
+streak: 0
+teminal: alacritty
+terminal_cmd_arr:
+- alacritty
+- -e
+- bash
+- -c
+- python3 /home/drew/Files/_Coding/oraterm/ot_main.py; exec bash
