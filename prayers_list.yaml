@@ -1,48 +1,52 @@
----
 id_1:
-  name: "A Prayer Of Thanksgiving"
-  type: "MORNING"
-  text: >
-    As I rise from sleep, I thank you, Holy Trinity, for because of your great
-    goodness and patience, you were not angry with me, an idler and sinner, nor
-    have you destroyed me in my sins, but have shown your usual love for me.
-    And when I was prostrate in despair, you raised me to glorify with your power.
-    Enlighten now my mind's eye, open my mouth to study your words and understand
-    your commandments, to do your will and sing to you in heartfelt adoration,
-    and praise your most holy name, of the Father and the Son and the Holy Spirit,
-    now and forever and to the ages of ages. Amen.
+  label: MORNING
+  name: A Prayer Of Thanksgiving
+  text: 'As I rise from sleep, I thank you, Holy Trinity, for because of your great
+    goodness and patience, you were not angry with me, an idler and sinner, nor have
+    you destroyed me in my sins, but have shown your usual love for me. And when I
+    was prostrate in despair, you raised me to glorify with your power. Enlighten
+    now my mind''s eye, open my mouth to study your words and understand your commandments,
+    to do your will and sing to you in heartfelt adoration, and praise your most holy
+    name, of the Father and the Son and the Holy Spirit, now and forever and to the
+    ages of ages. Amen.
+
+    '
 id_2:
-  name: "A Prayer Of Saint Basil"
-  type: "MORNING"
-  text: >
-    We bless you, O God, most high and Lord of mercy. You are always doing great
-    and inscrutable things with us, glorious and wonderful, and without number.
-    You grant us sleep for rest from our infirmities, and repose from the burdens
-    of our much-toiling flesh. We thank you, for you have not destroyed us with
-    our sins, but have continued to love us; and though we were sunk in despair,
-    you have raised us up to glorify your power. Therefore, we implore your
-    incomparable goodness. Enlighten the eyes of our understanding and raise up
-    our minds from the heavy sleep of indolence. Open our mouth and fill it with
-    your praise, that we may be able without distraction to sing and confess that
-    you are God, glorified in all and by all, the eternal Father, with your only
-    begotten Son, and your all holy, good, and life-giving Spirit, now and forever
-    and to the ages of ages. Amen.
+  label: MORNING
+  name: A Prayer Of Saint Basil
+  text: 'We bless you, O God, most high and Lord of mercy. You are always doing great
+    and inscrutable things with us, glorious and wonderful, and without number. You
+    grant us sleep for rest from our infirmities, and repose from the burdens of our
+    much-toiling flesh. We thank you, for you have not destroyed us with our sins,
+    but have continued to love us; and though we were sunk in despair, you have raised
+    us up to glorify your power. Therefore, we implore your incomparable goodness.
+    Enlighten the eyes of our understanding and raise up our minds from the heavy
+    sleep of indolence. Open our mouth and fill it with your praise, that we may be
+    able without distraction to sing and confess that you are God, glorified in all
+    and by all, the eternal Father, with your only begotten Son, and your all holy,
+    good, and life-giving Spirit, now and forever and to the ages of ages. Amen.
+
+    '
 id_3:
-  name: "A Prayer Of Saint Eustratios"
-  type: "MORNING"
-  text: >
-    Most highly do I praise you, Lord, for you have taken notice of my lowliness
-    and have not delivered me into the hands of my enemies but have relieved my
-    soul of its needs. Now, Master, let your hand shelter me, and let your grace
-    descend upon me, for my soul is distracted and pained at the departure from
-    this, my miserable and sordid body, that the end design of the adversary may
-    not overtake her and make her stumble into the darkness for the unknown and
-    known sins amassed by me in this life. Be gracious to me, Master, and do not
-    let my soul see the dark countenance of the evil spirits, but let her be
-    received by your angels bright and shining. Glorify your holy name, and by
-    your might set me before your divine judgment seat. When I am being judged,
-    do not allow the hand of the prince of this world to take hold of me, to throw
-    me, a sinner, into the depths of hell, but stand by me and be a savior and
-    mediator to me. Have mercy, Lord, on my soul, defiled through the passions of
-    this life, and receive her cleansed by penitence and confession, for you are
-    blessed to the ages of ages. Amen.
+  label: MORNING
+  name: A Prayer Of Saint Eustratios
+  text: 'Most highly do I praise you, Lord, for you have taken notice of my lowliness
+    and have not delivered me into the hands of my enemies but have relieved my soul
+    of its needs. Now, Master, let your hand shelter me, and let your grace descend
+    upon me, for my soul is distracted and pained at the departure from this, my miserable
+    and sordid body, that the end design of the adversary may not overtake her and
+    make her stumble into the darkness for the unknown and known sins amassed by me
+    in this life. Be gracious to me, Master, and do not let my soul see the dark countenance
+    of the evil spirits, but let her be received by your angels bright and shining.
+    Glorify your holy name, and by your might set me before your divine judgment seat.
+    When I am being judged, do not allow the hand of the prince of this world to take
+    hold of me, to throw me, a sinner, into the depths of hell, but stand by me and
+    be a savior and mediator to me. Have mercy, Lord, on my soul, defiled through
+    the passions of this life, and receive her cleansed by penitence and confession,
+    for you are blessed to the ages of ages. Amen.
+
+    '
+id_4:
+  label: MORNING
+  name: Name
+  text: This is the text.

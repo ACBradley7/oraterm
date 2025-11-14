@@ -1,6 +1,6 @@
 import time, ot_lib, os, re,, ot_notification_launcher
 
-data_file = "my_data.yaml"
+data_filename = "my_data.yaml"
 log_file = "friard_log.txt"
 error_log_file = "friard_error_log.txt"
 
@@ -82,14 +82,14 @@ def run_program():
 
     while True:
         try:
-            data = ot_lib.get_yaml_file(data_file)
+            data = ot_lib.get_yaml_file(data_filename)
         except Exception as e:
             with open(error_log_file, "a") as err_f:
                 err_f.write(f"{time.ctime()} - Exception reading YAML: {e}\n")
 
         curr_time_str = time.ctime()
         curr_time_sec = ctime_to_sec(curr_time_str)
-        launch_times = data["launch_times"]
+        launch_times = ot_lib.get_launch_times(data_filename)
         launch_times = launch_times_to_sec(launch_times)
         next_launch_time_diff = time_diff_to_next_launch(curr_time_sec, launch_times)
         sleep_amount = get_time_to_sleep(next_launch_time_diff)

@@ -1,13 +1,13 @@
 current_dir: /home/drew/Files/_Coding/oraterm/
 launch_times:
-- 07:00
-- '19:36'
-- '21:00'
+  AFTERNOON: '19:36'
+  EVENING: '21:00'
+  MORNING: 07:00
 recent_prayers:
-- id_3
 - id_1
 shell: bash
 streak: 0
+streak_date: 11-13-2025
 teminal: alacritty
 terminal_cmd_arr:
 - alacritty
