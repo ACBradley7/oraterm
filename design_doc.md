@@ -1,6 +1,6 @@
 
         Current Problems
-[ ] 1) Terminating subprocess on exiting from main
+[ ] 1) Terminating subprocess on exiting from mainn
 
         Next Steps
 [✓] 1) Launch notification instead of process
