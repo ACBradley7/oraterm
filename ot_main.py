@@ -1,6 +1,5 @@
 import random, time, os, schedule, tkinter, yaml, ot_lib, subprocess, textwrap, sys, datetime
 
-
 prayers_list_filename = "prayers_list.yaml"
 my_data_filename = "my_data.yaml"
 main_options_dict = {}
